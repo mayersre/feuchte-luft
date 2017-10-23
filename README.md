@@ -1,6 +1,8 @@
 feuchte-luft
 ============
 
+There is an english version now and java code too, see my repository HumidAir
+
 Feuchte Luft in Excel und python. Humid Air in Excel and python (most description in german) 
 
 Excel version provides functions in excel for calculation of humid air readable in VBA
